@@ -18,7 +18,7 @@ part1-2.ipynb - Feature Extraction
     LDA with component analysis
 
 part2-1.ipynb - Clustering: Country Grouping
-  - Part2.0:EDA
+  - Part 2.0:EDA
   - Part 2.1: Clustering
     Implements clustering workflows:
       K-Means
@@ -27,10 +27,14 @@ part2-1.ipynb - Clustering: Country Grouping
       PCA plot
       Box plot
 part2-2.ipynb - Regression: GNI Per Capita Prediction
-  Part 2.2: Regression
+  - Part 2.2: Regression
     Implements 2 progressive regression workflows:
       Workflow 1: Correlation Filter + Linear Regression
       Workflow 2: RFE + Random Forest
     Model interpretation with feature importance analysis
+part2-3.xlsx - Dashboard graphs
+  -sheet1: the raw data
+  -sheet2: the pivot table
+  -sheet3: the Dashboard
 
 
